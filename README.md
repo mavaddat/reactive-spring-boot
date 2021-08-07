@@ -1,29 +1,29 @@
 #  Kotlin Spring Boot Application
 
-Following the [*Kotlin Spring Boot Application* tutorial](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot/) on the JetBrains IdeaJ blog
+Following the [*Kotlin Spring Boot Application* tutorial](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot/) on the JetBrains IdeaJ blog.
 
 You can find each of the tutorial steps, the code, and the
 full video of the original demo.
 
--   [Part 1 -- A Kotlin REST
+-   [Part 1 &mdash; A Kotlin REST
     Service](https://blog.jetbrains.com/idea/2019/10/tutorial-reactive-spring-boot-a-kotlin-rest-service/)
--   [Part 2 -- A REST Client for Reactive
+-   [Part 2 &mdash; A REST Client for Reactive
     Streams](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-rest-client-for-reactive-streams/)
--   [Part 3 -- A JavaFX Spring Boot
+-   [Part 3 &mdash; A JavaFX Spring Boot
     Application](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-javafx-spring-boot-application/)
--   [Part 4 -- A JavaFX Line
+-   [Part 4 &mdash; A JavaFX Line
     Chart](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-javafx-line-chart/)
--   [Part 5 -- Auto-configuration for Shared
+-   [Part 5 &mdash; Auto-configuration for Shared
     Beans](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-auto-configuration-for-shared-beans/)
--   [Part 6 -- Displaying Reactive
+-   [Part 6 &mdash; Displaying Reactive
     Data](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-displaying-reactive-data/)
--   [Part 7 -- Subscribing Multiple
+-   [Part 7 &mdash; Subscribing Multiple
     Consumers](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-subscribing-multiple-consumers/)
--   [Part 8 -- Kotlin RSocket
+-   [Part 8 &mdash; Kotlin RSocket
     Server](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-kotlin-rsocket-server/)
--   [Part 9 -- Java RSocket
+-   [Part 9 &mdash; Java RSocket
     Client](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-java-rsocket-client/)
--   [Part 10 -- Spring Profiles to Switch
+-   [Part 10 &mdash; Spring Profiles to Switch
     Clients](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-spring-profiles-to-switch-clients/)
 
 ### Video Playlist
