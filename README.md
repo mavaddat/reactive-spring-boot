@@ -1,30 +1,52 @@
 #  Kotlin Spring Boot Application
 
-Following the [*Kotlin Spring Boot Application* tutorial](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot/) on the JetBrains IdeaJ blog.
+A VS Code adaption of the [*Kotlin Spring Boot Application* tutorial](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot/) on the JetBrains IdeaJ blog.
+
+## Kotlin Language support in VS Code
+
+For debugging support, syntax highlighting and intellisense language completion, use [Kotlin Language extension](vscode:extension/fwcd.kotlin) in VS Code: 
+
+Field | Value
+--- | ---
+Name | Kotlin
+Id | fwcd.kotlin
+Description | Smart code completion, debugging, linting, syntax highlighting and more for Kotlin
+Version | 0.2.23
+Publisher | fwcd
+VS Marketplace Link | https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin
+
+## Spring Boot template
+
+To begin the project, use this Spring Boot template: [https://start.spring.io/...](https://start.spring.io/#!type=maven-project&language=kotlin&platformVersion=2.6.0.BUILD-SNAPSHOT&packaging=jar&jvmVersion=16&groupId=com.mavaddat&artifactId=stock-service&name=stock-service&description=Service%20that%20generates%20prices&packageName=com.mavaddat.stock-service&dependencies=webflux)
+
+1. Download the ZIP
+1. Extract `stock-service` to a folder on your local comptuer
+1. Open the `stock-service` folder in VS Code
+1. Publish the code as a repository to GitHub
 
 You can find each of the tutorial steps, the code, and the
 full video of the original demo.
 
 -   [Part 1 &mdash; A Kotlin REST
-    Service](https://blog.jetbrains.com/idea/2019/10/tutorial-reactive-spring-boot-a-kotlin-rest-service/)
+    Service](./STEPONE.md)
 -   [Part 2 &mdash; A REST Client for Reactive
-    Streams](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-rest-client-for-reactive-streams/)
+    Streams](./STEPTWO.md)
 -   [Part 3 &mdash; A JavaFX Spring Boot
-    Application](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-javafx-spring-boot-application/)
+    Application](./STEPTHREE.md)
 -   [Part 4 &mdash; A JavaFX Line
-    Chart](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-a-javafx-line-chart/)
+    Chart](./STEPFOUR.md)
 -   [Part 5 &mdash; Auto-configuration for Shared
-    Beans](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-auto-configuration-for-shared-beans/)
+    Beans](./STEPFIVE.md)
 -   [Part 6 &mdash; Displaying Reactive
-    Data](https://blog.jetbrains.com/idea/2019/11/tutorial-reactive-spring-boot-displaying-reactive-data/)
+    Data](./STEPSIX.md)
 -   [Part 7 &mdash; Subscribing Multiple
-    Consumers](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-subscribing-multiple-consumers/)
+    Consumers](./STEPSEVEN.md)
 -   [Part 8 &mdash; Kotlin RSocket
-    Server](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-kotlin-rsocket-server/)
+    Server](./STEPEIGHT.md)
 -   [Part 9 &mdash; Java RSocket
-    Client](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-java-rsocket-client/)
+    Client](./STEPNINE.md)
 -   [Part 10 &mdash; Spring Profiles to Switch
-    Clients](https://blog.jetbrains.com/idea/2019/12/tutorial-reactive-spring-boot-spring-profiles-to-switch-clients/)
+    Clients](./STEPTEN.md)
 
 ### Video Playlist
 
